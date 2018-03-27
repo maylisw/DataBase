@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.backendless:backendless:4.4.1" type="repository">
+    <properties maven-id="com.backendless:backendless:4.4.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/backendless/backendless/4.4.1/backendless-4.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
